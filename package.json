@@ -1,8 +1,24 @@
 {
-    "name": "swerp-util",
-    "version": "1.0.0",
-    "keywords": ["util"],
-    "author": "Luiz Antônio C. C.",
-    "contributors": [],
-    "dependencies": {}
+  "name": "swerp-util",
+  "version": "1.0.0",
+  "keywords": [
+    "util"
+  ],
+  "author": "Luiz Antônio C. C.",
+  "contributors": [],
+  "dependencies": {},
+  "description": "lib util javaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitluiz/swerp-util.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitluiz/swerp-util/issues"
+  },
+  "homepage": "https://github.com/gitluiz/swerp-util#readme"
 }
