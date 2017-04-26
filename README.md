@@ -1,9 +1,12 @@
 # swerp-util
 
 Este documento foi criado para auxiliar o uso da biblioteca. 
+mês  
 
 Métodos
 -------------
+
+
 
  - toString
  - inherit
@@ -68,7 +71,18 @@ Métodos
 
 > **keys**
 
-> **isEmpty**
+####**isEmpty(value, isPropert) [Function]**
+
+ **Descrição**
+Verifica se o valor é nulo. Se a opção isPropert estiver definido a função verifica se valor é um objeto e se tem alguma propriedade vazia.
+
+| Parametro     | type 			| Opcional  |
+| :-------      | ----:			| :---: 	|
+| value    		| sem tipagem	|  não	 	|
+| isPropert     | booleano		|  sim  	|
+
+
+**Descrição**
 
 > **isJson**
 
@@ -90,7 +104,19 @@ Métodos
 
 > **listUtilitie**
 
-> **math **
+
+####**math [Object]**
+	
+ **Descrição**
+Funções Matemáticas Personalizadas.
+
+
+
+| Parametro     | type 			| Opcional  |
+| :-------      | ----:			| :---: 	|
+| value    		| sem tipagem	|  não	 	|
+| isPropert     | booleano		|  sim  	|
+
 
 > **List item**
 
