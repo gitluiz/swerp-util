@@ -3,6 +3,24 @@
 Este documento foi criado para auxiliar o uso da biblioteca. 
 mês  
 
+## Status
+
+[![npm version][npm-image]][npm-url]
+[![build status][travis-image]][travis-url]
+
+## Instalação
+
+Install the package via `npm`:
+
+```sh
+npm install swerp-util --save
+```
+### ou
+
+Download ZIP
+
+
+
 Métodos
 -------------
 
@@ -71,7 +89,7 @@ Métodos
 
 > **keys**
 
-####**isEmpty(value, isPropert) [Function]**
+#### isEmpty(value, isPropert) [Function]
 
  **Descrição**
 Verifica se o valor é nulo. Se a opção isPropert estiver definido a função verifica se valor é um objeto e se tem alguma propriedade vazia.
@@ -105,10 +123,10 @@ Verifica se o valor é nulo. Se a opção isPropert estiver definido a função 
 > **listUtilitie**
 
 
-####**math [Object]**
+#### math [Object]
 	
  **Descrição**
-Funções Matemáticas Personalizadas.
+Funções 'Matemáticas' Personalizadas.
 
 
 
